@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**haymizrachi/haymizrachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Hay Mizrachi**. I'm a cybersecurity enthusiast and Security Researcher.
 
-Here are some ideas to get you started:
+Feel free to explore my repositories, and if you have any questions or ideas, don't hesitate to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few things about me:
+- 🔐 I specialize in **cybersecurity** and **vulnerability research**.
+- 🌱 I'm currently do vulnerability research on public **open-source softwares**.
+- 🛠️ I enjoy working on **ethical hacking** projects and creating **CTF challenges**.
+
+## 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/haymizrachi/)
+- [Personal Blog](https://haymiz.dev/)
