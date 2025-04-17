@@ -1,3 +1,9 @@
+[![Website: haymizrachi.github.io]](https://haymiz.dev/)
+[![Blog: haymizrachi.github.io]](XXX)  
+[![GitHub: haymizrachi]](XXX) 
+[![Twitter: HayMizrachi]](XXX)
+[![Reddit: HayMiz]](XXX) 
+
 # Welcome to My GitHub Profile! 👋
 
 Hi, I'm **Hay Mizrachi**. I'm a cybersecurity enthusiast and Security Researcher.
